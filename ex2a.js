@@ -1,5 +1,4 @@
-// Exercise 2(a): Arrow function with no parameters that returns a greeting,
-// assigned to a variable and logged to the console.
+// Arrow function with no parameters that returns a greeting,
 
 let message = () => {
     console.log("Welcome to Data Rep");

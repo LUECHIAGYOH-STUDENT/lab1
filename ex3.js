@@ -1,4 +1,4 @@
-// Exercise 3: Array of tasks with arrow functions to add, list and delete items.
+// Array of tasks with arrow functions to add, list and delete items.
 
 // 3(a): Array of strings
 let tasks = ["Work", "Eat", "Study"];
